@@ -1,7 +1,7 @@
 ------- ELASTODYN V1.00.* TOWER INPUT FILE -------------------------------------
 AeroElasticSE FAST driver
 ---------------------- TOWER PARAMETERS ----------------------------------------
-11                     NTwInpSt   - Number of input stations to specify tower geometry
+11                     NTwInpSt    - Number of input stations to specify tower geometry
 1.0                    TwrFADmp(1) - Tower 1st fore-aft mode structural damping ratio (%)
 1.0                    TwrFADmp(2) - Tower 2nd fore-aft mode structural damping ratio (%)
 1.0                    TwrSSDmp(1) - Tower 1st side-to-side mode structural damping ratio (%)
